@@ -14,3 +14,7 @@ https://github.com/jadore801120/attention-is-all-you-need-pytorch
 Transformers-Tutorials
 
 https://github.com/NielsRogge/Transformers-Tutorials
+
+Beyond Efficient Transformer for Long Sequence Time-Series Forecasting
+
+https://github.com/zhouhaoyi/Informer2020

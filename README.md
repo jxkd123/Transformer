@@ -6,3 +6,7 @@ https://github.com/huggingface/transformers/blob/main/README_zh-hans.md
 decision-transformer
 
 https://github.com/kzl/decision-transformer
+
+Attention is all you need: A Pytorch Implementation
+
+https://github.com/jadore801120/attention-is-all-you-need-pytorch
